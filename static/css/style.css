@@ -1,0 +1,25 @@
+button {
+    background-color: aqua;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    width: 200px;
+    text-align: center;
+    margin: 10px;
+}
+
+.fila {
+    display: flex;
+}
+
+.fila-1 {
+    display: flex;
+}
+
+.fila-2 {
+    display: flex;
+}
+
+p {
+    padding: 10px;
+}
